@@ -1,0 +1,19 @@
+{
+  "version": "0.0.1",
+  "catchAll": {
+    "onReceive": [],
+    "next": []
+  },
+  "startNode": "saudacao",
+  "nodes": [
+    {
+      "id": "entry",
+      "name": "saudacao",
+      "next": [],
+      "onEnter": [
+        "say #!builtin_text-hBJ6x5"
+      ],
+      "onReceive": null
+    }
+  ]
+}

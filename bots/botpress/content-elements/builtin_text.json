@@ -1,0 +1,16 @@
+[
+  {
+    "id": "builtin_text-hBJ6x5",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "Olá,  botpress ativado  no messenger",
+      "text$pt": "Olá,  botpress ativado  no messenger. Sucesso\n:)",
+      "markdown$pt": true,
+      "typing$pt": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2020-08-11T00:34:47.854Z",
+    "modifiedOn": "2020-08-11T10:25:32.675Z"
+  }
+]
